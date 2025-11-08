@@ -10,7 +10,7 @@ I am a Ph.D. student at Northeastern University’s Cybersecurity and Privacy In
 
 - **Internet-Scale Measurement:** content moderation, platform accountability, security and privacy measurement, social media harm
 - **Usable Security:** web security interface, mental models, security control, stress-aware or trauma-informed privacy design
-- **Privacy Regulation and Law:** regional privacy framework, GDPR
+- **Privacy Regulation and Law:** regional privacy framework, privacy law
 
 ## News
 
