@@ -14,7 +14,7 @@ I am a Ph.D. student at Northeastern University’s Cybersecurity and Privacy In
 
 ## News
 
-- **[Feb. 2025]** Workshop paper about dark pattern measurement based on GDPR is accepted by MADWeb 2025 under NDSS
+- **[Feb. 2025]** Our workshop paper on dark pattern measurement under the GDPR framework has been accepted to MADWeb 2025, co-located with the Network and Distributed System Security Symposium (NDSS)
 
 {% include_relative _includes/publications.md %}
 
