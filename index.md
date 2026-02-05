@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at Northeastern University’s Cybersecurity and Privacy Institute and a research member of Cybersecurity for Democracy, a collaborative lab with New York University. 
+I am a Ph.D. student at Northeastern University’s Cybersecurity and Privacy Institute and a research member of Cybersecurity for Democracy, a collaborative lab with New York University. I am also a visiting fellow at NYU for the year 2026. 
 
 ## Research Interests
 
@@ -15,7 +15,7 @@ I am a Ph.D. student at Northeastern University’s Cybersecurity and Privacy In
 ## News
 
 - **[Feb. 2025]** Our workshop paper on dark pattern measurement under the GDPR framework has been accepted to MADWeb 2025, co-located with the Network and Distributed System Security Symposium (NDSS)
-- **[Jan. 2026]** Visiting fellow at NYU
+
 
 {% include_relative _includes/publications.md %}
 
