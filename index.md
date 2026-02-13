@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at Northeastern University’s Cybersecurity and Privacy Institute and a research member of Cybersecurity for Democracy, a collaborative lab with New York University. I am also a visiting fellow at NYU for the year 2026. 
+I am a Ph.D. student at Northeastern University’s Cybersecurity and Privacy Institute and a research member of Cybersecurity for Democracy, a collaborative lab with New York University. I am also an affliate scholar at NYU for the year 2026. 
 
 ## Research Interests
 
